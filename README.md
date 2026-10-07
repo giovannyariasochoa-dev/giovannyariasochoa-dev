@@ -3,7 +3,7 @@
 :pencil: **English teacher**
 :eyeglasses: **Passionate about programming**
 :oncoming_automobile: **Fan de los carros, paisajes y carreteras**
-:paisaje: **Amante a la naturaleza**
+:nature: **Amante a la naturaleza**
 
 ### Contacto
 
